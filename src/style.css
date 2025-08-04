@@ -1,16 +1,16 @@
 @import 'tailwindcss';
 
 button {
-	background-color : black;
+	background-color: black;
 	color: white;
 	font-size: 22px;
-	font-weight : bolder;
+	font-weight: bolder;
 	font-family: 'Georgia';
 	cursor: pointer;
 	padding: 8px;
-	border : 2px solid black;
-	border-radius : 4px;
-	transition : .5s ease-out;
+	border: 2px solid black;
+	border-radius: 4px;
+	transition: 0.5s ease-out;
 }
 
 button:hover {
