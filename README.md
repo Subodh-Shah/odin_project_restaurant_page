@@ -2,18 +2,6 @@
 
 A clean, responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a basic front-end design for a modern restaurant landing page with essential features like menu display, contact form, and smooth navigation.
 
-## 🚀 Live Demo
-
-👉 [View Live Website](#)  
-_(Replace `#` with your deployed link once available)_
-
----
-
-## 📸 Preview
-
-![Restaurant Website Screenshot](screenshot.png)  
-_(Add a screenshot of your project here)_
-
 ---
 
 ## ✨ Features
