@@ -1,9 +1,9 @@
-const renderContact = function() {
-	const contact = document.createElement('div');
-	contact.id = 'homePage';
-	contact.style.height = '20px';
-	contact.style.backgroundColor = 'green';
-	return contact;
-}
+const renderContact = function () {
+	const contactPage = document.createElement('div');
+	contactPage.id = 'homePage';
+	contactPage.style.height = '20px';
+	contactPage.style.backgroundColor = 'green';
+	return contactPage;
+};
 
-export {renderContact}
+export { renderContact };

@@ -1,9 +1,9 @@
-const renderAbout = function() {
-	const about = document.createElement('div');
-	about.id = 'aboutUs';
-	about.style.height = "20px";
-	about.style.backgroundColor = 'blue';
-	return about;
-}
+const renderAbout = function () {
+	const aboutPage = document.createElement('div');
+	aboutPage.id = 'aboutUs';
+	aboutPage.style.height = '20px';
+	aboutPage.style.backgroundColor = 'blue';
+	return aboutPage;
+};
 
-export {renderAbout}
+export { renderAbout };

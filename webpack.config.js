@@ -39,11 +39,30 @@ module.exports = {
 			},
 
 			{
+				test: /\.(png|jpe?g|gif|svg|webp)$/i,
+				type: 'asset/resource',
+			},
+
+			{
+				test: /\.(woff|woff2|eot|ttf|otf)$/,
+				type: 'asset/resource',
+				generator: {
+					filename: 'fonts/[name][ext][query]',
+				},
+			},
+
+			{
 				test: /\.html$/i,
 				loader: 'html-loader',
 			},
 		],
 	},
+
+	devtool: 'eval-source-map',
+	devServer: {
+		watchFiles: ['./src/index.html'],
+	},
+
 	plugins: [
 		new HtmlWebpackPlugin({
 			template: './src/index.html',
