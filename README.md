@@ -6,11 +6,7 @@ A clean, responsive restaurant website built using **HTML**, **CSS**, and **Java
 
 ## ✨ Features
 
--   Responsive layout for mobile, tablet, and desktop
--   Animated hero section with CTA (Call to Action)
 -   Interactive menu with categories
--   Contact form with basic validation
--   Sticky navigation bar
 -   Simple, clean UI with modern styling
 
 ---
