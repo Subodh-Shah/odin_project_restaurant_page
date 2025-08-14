@@ -1,6 +1,6 @@
 # 🍽️ Simple Restaurant Website
 
-A clean, responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a basic front-end design for a modern restaurant landing page with essential features like menu display, contact form, and smooth navigation.
+A clean, responsive restaurant website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a basic front-end design for a modern restaurant landing page with essential features like menu display, and smooth navigation.
 
 ---
 
