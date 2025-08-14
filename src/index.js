@@ -9,7 +9,9 @@ console.log('Restaurant page loaded!');
 
 const pageMainContent = document.getElementById('content');
 
-const loadPage = function () {
+loadPage();
+
+function loadPage () {
 	const home = renderHome();
 	const about = renderAbout();
 	const menu = renderMenu();
@@ -39,4 +41,4 @@ const loadPage = function () {
 	}
 };
 
-loadPage();
+
